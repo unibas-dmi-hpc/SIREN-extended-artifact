@@ -1,0 +1,11 @@
+libraries/
+output/
+code/siren.so
+listener/siren_listener
+demo/hello_world
+*.o
+*.pkl
+*.db
+__pycache__/
+*.pyc
+.DS_Store
