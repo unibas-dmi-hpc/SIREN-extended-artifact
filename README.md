@@ -33,4 +33,9 @@ gcc, make, go, git, sqlite3, python3. Python packages are listed in `analysis/re
 The source code in this repository is released under the MIT License (see `LICENSE`).
 
 # Reference
-Jakobsche, T., Robertsén, F., Jones, J. R., Haus, U. U., & Ciorba, F. M. (2025, November). SIREN: Software Identification and Recognition in HPC Systems. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (pp. 1742-1754). doi:10.1145/3712285.3759873
+Jakobsche, T., Robertsén, F., Jones, J. R., Haus, U. U., & Ciorba, F. M. (2025, November).
+SIREN: Software Identification and Recognition in HPC Systems. In *Proceedings of the
+International Conference for High Performance Computing, Networking, Storage and Analysis*
+(pp. 1742–1754). [doi:10.1145/3712285.3759873](https://doi.org/10.1145/3712285.3759873)
+
+Archived artifact on Zenodo: [zenodo.org/records/15301754](https://zenodo.org/records/15301754)
